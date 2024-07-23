@@ -14,3 +14,4 @@ layout : post
       + y
 - [ ] helping me
 - [x] leaving me
+[go to read me](../README.md)
