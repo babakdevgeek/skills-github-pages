@@ -12,3 +12,5 @@ layout : post
   + left
       + x
       + y
+- [ ] helping me
+- [x] leaving me
