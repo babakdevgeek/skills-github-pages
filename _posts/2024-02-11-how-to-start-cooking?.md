@@ -1,4 +1,5 @@
 ---
+type : post
 title : hi
 category : cooking
 ---
