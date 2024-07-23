@@ -1,7 +1,6 @@
 ---
 title: "Welcome to my blog"
 date: 2019-01-20
-layout : post
 ---
 >The truth is that i dont know md
 
