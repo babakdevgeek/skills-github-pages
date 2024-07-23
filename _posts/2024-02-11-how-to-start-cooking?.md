@@ -1,7 +1,7 @@
 ---
 type : post
 title : hi
-category : cooking
+categories : cooking art
 ---
 
 you can easily cook 🍪 cna't you ?? 🚫
