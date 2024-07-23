@@ -1,6 +1,5 @@
 ---
 type : post
-title : hi
 categories : cooking art
 permalink : /:year/:categories/:title
 ---
