@@ -1,5 +1,4 @@
 ---
-layout : post
 category : cooking
 permalink : /:category/:title
 ---
