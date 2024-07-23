@@ -4,4 +4,4 @@ categories : cooking art
 permalink : /:year/:categories/:title
 ---
 
-you can easily cook 🍪 cna't you ?? 🚫
+برای اینکه املت درست کنید باید ابتدا روغن را در ماهیتابه داغ کنید ♨️ سپس ...
